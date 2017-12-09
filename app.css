@@ -1,22 +1,11 @@
-		h1{
-			color: #FF5555;
-			border-color: purple;
-			border-width: 5px;
-			border-style: solid;
-			border: 8px dashed yellow;
-		}
-
-		li{
-			color: green;
-		}
-
-		body{
-			background: url(https://static.vecteezy.com/system/resources/previews/000/164/421/non_2x/vector-wood-grain-texture.jpg);
-			background-repeat: no-repeat;
-			background-size: cover;
-		}
+body {
+	background: url(https://images.unsplash.com/photo-1434543177303-ef2cc7707e0d?dpr=2&fit=crop&fm=jpg&h=825&q=50&w=1450);
+	background-size: cover;
+	background-position: center;
+}
 
 
-
-
-		
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
